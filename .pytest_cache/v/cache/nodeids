@@ -1,0 +1,5 @@
+[
+  "exercises/04-Multiply-Two-Values/test.py::test_variable_exists",
+  "exercises/04-Multiply-Two-Values/test.py::test_use_variable_name",
+  "exercises/04-Multiply-Two-Values/test.py::test_for_file_output"
+]
