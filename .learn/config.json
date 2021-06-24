@@ -37,7 +37,7 @@
     "video-solutions": true,
     "graded": true,
     "language": "python3",
-    "session": 8670945983211539000,
+    "session": 5688362099486402000,
     "exercises": [
         {
             "position": 0,
@@ -89,6 +89,11 @@
                     "hidden": true
                 },
                 {
+                    "path": "exercises/01-Console/__pycache__",
+                    "name": "__pycache__",
+                    "hidden": true
+                },
+                {
                     "path": "exercises/01-Console/app.py",
                     "name": "app.py",
                     "hidden": false
@@ -127,6 +132,11 @@
                 {
                     "path": "exercises/02-Declare-Variables/README.md",
                     "name": "README.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/02-Declare-Variables/__pycache__",
+                    "name": "__pycache__",
                     "hidden": true
                 },
                 {
@@ -171,6 +181,11 @@
                     "hidden": true
                 },
                 {
+                    "path": "exercises/03-Print-Variables-In-The-Console/__pycache__",
+                    "name": "__pycache__",
+                    "hidden": true
+                },
+                {
                     "path": "exercises/03-Print-Variables-In-The-Console/app.py",
                     "name": "app.py",
                     "hidden": false
@@ -212,6 +227,11 @@
                     "hidden": true
                 },
                 {
+                    "path": "exercises/04-Multiply-Two-Values/__pycache__",
+                    "name": "__pycache__",
+                    "hidden": true
+                },
+                {
                     "path": "exercises/04-Multiply-Two-Values/app.py",
                     "name": "app.py",
                     "hidden": false
@@ -250,6 +270,11 @@
                 {
                     "path": "exercises/05-User-Inputed-Values/README.md",
                     "name": "README.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/05-User-Inputed-Values/__pycache__",
+                    "name": "__pycache__",
                     "hidden": true
                 },
                 {
@@ -309,7 +334,7 @@
                     "hidden": true
                 }
             ],
-            "done": false
+            "done": true
         },
         {
             "position": 7,
@@ -350,7 +375,7 @@
                     "hidden": true
                 }
             ],
-            "done": false
+            "done": true
         },
         {
             "position": 8,
@@ -391,7 +416,7 @@
                     "hidden": true
                 }
             ],
-            "done": false
+            "done": true
         },
         {
             "position": 9,
@@ -432,7 +457,7 @@
                     "hidden": true
                 }
             ],
-            "done": false
+            "done": true
         },
         {
             "position": 10,
